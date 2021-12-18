@@ -1,3 +1,6 @@
+/* Written by Rv 
+Singly_linked list using c 
+*/
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
