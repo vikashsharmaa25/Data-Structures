@@ -1,6 +1,7 @@
 /*
-
-
+     Desgined by Ranveer Singh 
+         
+         
 
      ____                                
     |  _ \ __ _ _ ____   _____  ___ _ __ 
@@ -9,7 +10,7 @@
     |_| \_\__,_|_| |_|\_/ \___|\___|_|   
 
 
-
+          for any queries contact : gmail: infiniterv@gmail.com
 */
 #include<iostream>
 using namespace std;
